@@ -1,3 +1,11 @@
+# We have to install some python libraries to excute the program in the terminal like :-
+# pip install pyttx3
+# pip install speech_recognition as sr
+# pip install datetime
+# pip install webbrowser
+# pip install os
+# pip install smtplib
+
 import pyttsx3
 import speech_recognition as sr
 import datetime
