@@ -5,6 +5,7 @@
 # pip install webbrowser
 # pip install os
 # pip install smtplib
+# This code is written by Ashutosh Joshi ©
 
 import pyttsx3
 import speech_recognition as sr
